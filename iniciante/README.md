@@ -4,6 +4,6 @@ Exercícios da plataforma **BEECROWD** resolvidos e documentados no youtube.com/
 
 #  🗺️ GUIA
 
-|   #   | Nível     | Videos |
-| :---: | --------- | :----: |
-| 1000  | Iniciante |   03   |
+|                                        #                                         | Exercício    | Videos |
+| :------------------------------------------------------------------------------: | ------------ | :----: |
+| [1000](#https://github.com/melhamasio/beecrowd/blob/main/iniciante/1000/1000.py) | Hello World! |   03   |
