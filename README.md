@@ -2,7 +2,7 @@
 
 Exercícios da plataforma **BEECROWD** resolvidos e documentados no youtube.com/@melhamas
 
-#  🗺️ Guia das resoluções 
+##  🗺️ Guia das resoluções 
 
 - [01 Iniciante](https://github.com/melhamasio/beecrowd/tree/main/iniciante)
 - [02 AD-HOC](#)
